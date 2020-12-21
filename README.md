@@ -1,5 +1,3 @@
-readme.txt
-
 
 1. Install Matlab 2019a and R softwave (2h is needed to intall all softwares)
 
