@@ -1,3 +1,6 @@
+readme.txt
+
+
 1. Install Matlab 2019a and R softwave (2h is needed to intall all softwares)
 
 2. Download the all the files from  https://github.com/helan0811/iEDI-progect.
