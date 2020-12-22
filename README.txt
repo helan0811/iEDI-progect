@@ -5,9 +5,9 @@
 
 3. Run main.m with Matlab to obtain all the image features file from the .dcom file.
 
-4. Run clust.r with R softwave to generate the EDI features data from the image features data.
+4. Run clust.R with R softwave to generate the EDI features data from the image features data.
 
 5. Downlad all the data from https://github.com/helan0811/iEDI-progect/data.
 
-6. Run statistic.r with R softwave to generate all results of all the input datas.
+6. Run the R codes in the “R code for statistic” folder with R softwave to generate all results of all the input datas.
 
