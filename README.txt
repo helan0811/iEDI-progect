@@ -9,5 +9,5 @@
 
 5. Downlad all the data from https://github.com/helan0811/iEDI-progect/data.
 
-6. Run PFS.r with R softwave to generate all results of all the input datas.
+6. Run statistic.r with R softwave to generate all results of all the input datas.
 
