@@ -231,6 +231,7 @@ axis(2,at=c(0.0,0.2,0.4,0.6,0.8,1.0),labels=c("0.0","0.2","0.4","0.6","0.8","1.0
 axis(1,at=c(0,12,24,36,48,60,72,84,96),labels=c(0,12,24,36,48,60,72,84,96),cex.axis=1.25)
 legend(58,1.05,c("High iEDI-score","Low iEDI-score"),cex=c(1,1),lty=1,col=c('deepskyblue3','firebrick1'),box.lty=0)
 
+#########  Immunotherapy cohorts
 #####IMU1 cohort
 library(survivalROC)
 cutoff=10
@@ -268,6 +269,7 @@ axis(2,at=c(0.0,0.2,0.4,0.6,0.8,1.0),labels=c("0.0","0.2","0.4","0.6","0.8","1.0
 axis(1,at=c(0,12,24,36,48,60,72,84,96),labels=c(0,12,24,36,48,60,72,84,96),cex.axis=1.25)
 legend(20,1.05,c("High iEDI-score","Low iEDI-score"),cex=c(1,1),lty=1,col=c('deepskyblue3','firebrick1'),box.lty=0)
 
+#########  Chemotherapy cohorts
 #####Chem1 cohort
 library(survivalROC)
 cutoff=10
@@ -295,6 +297,7 @@ axis(2,at=c(0.0,0.2,0.4,0.6,0.8,1.0),labels=c("0.0","0.2","0.4","0.6","0.8","1.0
 axis(1,at=c(0,12,24,36,48,60,72,84,96),labels=c(0,12,24,36,48,60,72,84,96),cex.axis=1.25)
 legend(31,1.05,c("High iEDI-score","Low iEDI-score"),cex=c(1,1),lty=1,col=c('deepskyblue3','firebrick1'),box.lty=0)
 
+#########  EGFR-TKI therapy cohorts
 #####TKI1 cohort
 library(survivalROC)
 cutoff=10
